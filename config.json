@@ -1,9 +1,9 @@
 {
-  "bioUrl": "https://raw.githubusercontent.com/m4tt72/m4tt72/master/README.md",
+  "bioUrl": "https://raw.githubusercontent.com/jonbeibeibei/beitoshi-site/master/readme-self.md",
   "social": {
-    "instagram": "m4tt72",
-    "github": "m4tt72",
-    "linkedin": "yassinefathi"
+    "twitter": "JONBEIBEIBEI",
+    "github": "jonbeibeibei",
+    "linkedin": "Jonathan Bei"
   },
   "colors": {
     "light": {
@@ -16,13 +16,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#1c1c1c",
-      "foreground": "#EBDBB2",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#A89984",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#24292e",
+      "foreground": "#e1e4e8",
+      "yellow": "#f1ab70",
+      "green": "#85dc6e",
+      "gray": "#5f737d",
+      "blue": "#4dacff",
+      "red": "#f97583"
     }
   }
 }
