@@ -13,4 +13,4 @@ I also hack around on HTB (hackthebox) for fun, check out my stats here:
   
 Passionate about music, I create some of my own tunes from time to time. I may post something, who knows ¯\_(ツ)_/¯
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonbeibeibei&show_icons=true&theme=gruvbox&count_private=true" alt="jonbeibeibei" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonbeibeibei&show_icons=true&theme=gruvbox&count_private=true" alt="jonbeibeibei" width = 200/>
