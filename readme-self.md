@@ -9,8 +9,8 @@ I love breaking things, finding security vulnerabilities and unintended backdoor
 </div> -->
 
 I also hack around on HTB (hackthebox) for fun, check out my stats here: 
-<p align="center"> <img src="https://www.hackthebox.com/badge/image/176992" alt="https://www.hackthebox.com/badge/image/176992" />
+<p align="center"> <img src="https://www.hackthebox.com/badge/image/176992" alt="https://www.hackthebox.com/badge/image/176992" /></p>
   
-Passionate about music, I create some of my own tunes from time to time. I may post something, who knows ¯\_(ツ)_/¯
+<p align="left">Passionate about music, I create some of my own tunes from time to time. I may post something, who knows ¯\_(ツ)_/¯</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonbeibeibei&show_icons=true&theme=gruvbox&count_private=true" alt="jonbeibeibei" width = 200/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonbeibeibei&show_icons=true&theme=gruvbox&count_private=true" alt="jonbeibeibei" width = 200/></p>
