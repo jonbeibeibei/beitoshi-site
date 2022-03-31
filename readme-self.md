@@ -3,11 +3,10 @@
 Jonathan Bei, a Cybersecurity Consultant/Penetration Tester from Singapore.
 
 I love breaking things, finding security vulnerabilities and unintended backdoors into applications, being able to advise my clients on the potential threats to their systems. I am offensive security OSCP and CREST certified. 
-
- <div style="text-align:center"; class="parent">
+<!--  <div style="text-align:center"; class="parent">
         <img class="half-page-image" src="https://raw.githubusercontent.com/jonbeibeibei/jonbeibeibei-site/master/docs/PWK-OSCP-badge.png" width="100">
         <img class="half-page-image" src="https://raw.githubusercontent.com/jonbeibeibei/jonbeibeibei-site/master/docs/crest.png" width="120">
-</div>
+</div> -->
 
 I also hack around on HTB (hackthebox) for fun, check out my stats here: 
 <p align="center"> <img src="https://www.hackthebox.com/badge/image/176992" alt="https://www.hackthebox.com/badge/image/176992" />
