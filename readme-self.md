@@ -6,7 +6,7 @@ I love breaking things, finding security vulnerabilities and unintended backdoor
 
  <div style="text-align:center"; class="parent">
         <img class="half-page-image" src="https://raw.githubusercontent.com/jonbeibeibei/jonbeibeibei-site/master/docs/PWK-OSCP-badge.png" width="150">
-        <img class="half-page-image" src="https://raw.githubusercontent.com/jonbeibeibei/jonbeibeibei-site/master/docs/crest.png" width="300">
+        <img class="half-page-image" src="https://raw.githubusercontent.com/jonbeibeibei/jonbeibeibei-site/master/docs/crest.png" width="180">
 </div>
 
 I also hack around on HTB (hackthebox) for fun, check out my stats here: 
