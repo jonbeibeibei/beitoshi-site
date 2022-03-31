@@ -20,15 +20,15 @@ export const date = async (args: string[]): Promise<string> => {
 };
 
 export const gui = async (args: string[]): Promise<string> => {
-  window.open('https://m4tt72.com', '_self');
+  window.open('https://jonathanbei.weebly.com/', '_self');
 
   return 'Opening GUI version...';
 };
 
 export const email = async (args: string[]): Promise<string> => {
-  window.open('mailto:hi@nm4tt72.com');
+  window.open('mailto:beitoshii@gmail.com');
 
-  return 'Opening mailto:hi@m4tt72.com...';
+  return 'Opening mailto:beitoshii@gmail.com...';
 };
 
 export const vi = async (args: string[]): Promise<string> => {
@@ -50,26 +50,27 @@ export const sudo = async (args?: string[]): Promise<string> => {
 };
 
 export const repo = async (args?: string[]): Promise<string> => {
-  window.open('https://github.com/m4tt72/terminal', '_blank');
+  window.open('https://github.com/jonbeibeibei', '_blank');
 
-  return 'Opening repository...';
+  return 'Opening my repositories...';
 };
 
 export const banner = (args?: string[]): string => {
   return `
-███╗   ███╗██╗  ██╗████████╗████████╗███████╗██████╗
-████╗ ████║██║  ██║╚══██╔══╝╚══██╔══╝╚════██║╚════██╗
-██╔████╔██║███████║   ██║      ██║       ██╔╝ █████╔╝
-██║╚██╔╝██║╚════██║   ██║      ██║      ██╔╝ ██╔═══╝
-██║ ╚═╝ ██║     ██║   ██║      ██║      ██║  ███████╗
-╚═╝     ╚═╝     ╚═╝   ╚═╝      ╚═╝      ╚═╝  ╚══════╝ v${packageJson.version}
+
+     ██╗ ██████╗ ███╗   ██╗██████╗ ███████╗██╗██████╗ ███████╗██╗██████╗ ███████╗██╗
+     ██║██╔═══██╗████╗  ██║██╔══██╗██╔════╝██║██╔══██╗██╔════╝██║██╔══██╗██╔════╝██║
+     ██║██║   ██║██╔██╗ ██║██████╔╝█████╗  ██║██████╔╝█████╗  ██║██████╔╝█████╗  ██║
+██   ██║██║   ██║██║╚██╗██║██╔══██╗██╔══╝  ██║██╔══██╗██╔══╝  ██║██╔══██╗██╔══╝  ██║
+╚█████╔╝╚██████╔╝██║ ╚████║██████╔╝███████╗██║██████╔╝███████╗██║██████╔╝███████╗██║
+ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝ v${packageJson.version}
 
 Type 'help' to see list of available commands.
 
 --
-Now the project is open-source 🎉 type 'repo' to check out the repository.
+Type 'repo' to check out my repository.
 --
-For a simplified version, click <a class="text-light-blue dark:text-dark-blue underline" href="https://m4tt72.com">Here</a>.
+For a simplified version, click <a class="text-light-blue dark:text-dark-blue underline" href="https://jonathanbei.weebly.com/">Here</a>.
 --
 `;
 };
