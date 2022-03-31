@@ -1,4 +1,4 @@
-# $ whoami?
+# $ whoami
 
 Jonathan Bei, a Cybersecurity Consultant/Penetration Tester from Singapore.
 
